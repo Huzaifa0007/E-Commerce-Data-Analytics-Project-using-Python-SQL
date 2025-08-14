@@ -33,4 +33,5 @@
 </ul>
 
 
-
+<h3>A Few Notes</h3>
+<p>This is meant for learning and sharing—not for real-world business use.</p>
